@@ -2,7 +2,7 @@ package sample;
 
 public class sample {
 		public void collegeName()
-		{System.out.println("collegename is payachayappas");
+		{System.out.println("collegename is ANNA University");
 		
 		}
 		public void collegeCode()
@@ -11,13 +11,9 @@ public class sample {
 		
 		public void collegeRank ()
 		
-		{System.out.println("college rank is 1st always");
+		{System.out.println("college rank is 1st Always");
 		
 		}
-		
-		
-		
-		
-	}
+		}
 
 
